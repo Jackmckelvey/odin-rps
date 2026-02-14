@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 15px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 0px;;
+}
+.score{
+    background-color: aqua;
+    padding:10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -15px;
+    text-align: center;
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    padding: 60px;
+    justify-content: space-evenly;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+button{
+    font-size:x-large;
+}
+
+button:hover{
+    background-color: blanchedalmond;
+}
+
+.scoreP{
+    font-size: x-large;
+    margin-top: -10px;
+}
+
+.results{
+    background-color: white;
+    padding: 20px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+}
